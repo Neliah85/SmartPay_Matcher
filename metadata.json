@@ -1,0 +1,5 @@
+{
+  "name": "SmartPay Matcher - Intelligens Befizetés Azonosító",
+  "description": "Rendszer a téves vagy hiányos azonosítóval rendelkező banki befizetések és ügyféljelzések automatikus párosítására mesterséges intelligencia segítségével.",
+  "requestFramePermissions": []
+}
